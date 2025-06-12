@@ -1,0 +1,139 @@
+Nom : Dr Lucile RESPLANDY
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3 Rue du Chêne Vert
+31150 Gagnac-sur-Garonne
+--------------------------------------------------
+Nom : Dr Céline Carassus
+Prochaine disponibilité : [datetime.datetime(2025, 6, 30, 9, 15), datetime.datetime(2025, 7, 1, 14, 30), datetime.datetime(2025, 7, 2, 10, 45), datetime.datetime(2025, 7, 3, 9, 45), datetime.datetime(2025, 7, 7, 10, 0), datetime.datetime(2025, 7, 8, 14, 30), datetime.datetime(2025, 7, 21, 9, 30), datetime.datetime(2025, 7, 22, 14, 30), datetime.datetime(2025, 7, 23, 10, 45), datetime.datetime(2025, 7, 24, 9, 45), datetime.datetime(2025, 7, 25, 18, 30), datetime.datetime(2025, 7, 28, 8, 45), datetime.datetime(2025, 7, 29, 14, 30), datetime.datetime(2025, 7, 31, 9, 45), datetime.datetime(2025, 8, 1, 9, 15), datetime.datetime(2025, 8, 4, 8, 45), datetime.datetime(2025, 8, 18, 9, 15), datetime.datetime(2025, 8, 19, 14, 0), datetime.datetime(2025, 8, 20, 10, 45), datetime.datetime(2025, 8, 21, 9, 45), datetime.datetime(2025, 8, 22, 17, 15), datetime.datetime(2025, 8, 25, 8, 45), datetime.datetime(2025, 8, 26, 14, 30), datetime.datetime(2025, 8, 27, 10, 45), datetime.datetime(2025, 8, 29, 14, 30), datetime.datetime(2025, 9, 1, 8, 45), datetime.datetime(2025, 9, 2, 14, 30), datetime.datetime(2025, 9, 3, 10, 45), datetime.datetime(2025, 9, 4, 9, 45), datetime.datetime(2025, 9, 5, 18, 30), datetime.datetime(2025, 9, 8, 8, 45), datetime.datetime(2025, 9, 9, 14, 30), datetime.datetime(2025, 9, 10, 10, 45), datetime.datetime(2025, 9, 11, 9, 45), datetime.datetime(2025, 9, 12, 9, 15)]
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3 Route de l'Hers
+31150 Lespinasse
+--------------------------------------------------
+Nom : None
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : non conventionné
+Adresse complète : None
+--------------------------------------------------
+Nom : Dr Claire Flacassier
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3a Place du Castelet
+31150 Bruguières
+--------------------------------------------------
+Nom : Dr JULIE PRUNELLA
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 37 Rue des Fleurs
+31150 Bruguières
+--------------------------------------------------
+Nom : Dr Doriane Mairal
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3a Place du Castelet
+31150 Bruguières
+--------------------------------------------------
+Nom : Marine MAUDUIT
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 37 Rue des Fleurs
+31150 Bruguières
+--------------------------------------------------
+Nom : Dr Chantal Amsellem
+Prochaine disponibilité : []
+Type de consultation : visio
+Secteur d'assurance : secteur 1
+Adresse complète : 4 Boulevard du Maréchal Juin
+31150 Fenouillet
+--------------------------------------------------
+Nom : Dr MARIE SIBEL
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 37 Rue des Fleurs
+31150 Bruguières
+--------------------------------------------------
+Nom : Dr Mamadou Lamine DIALLO
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3 Rue du Chêne Vert
+31150 Gagnac-sur-Garonne
+--------------------------------------------------
+Nom : Dr Lucile RESPLANDY
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3 Rue du Chêne Vert
+31150 Gagnac-sur-Garonne
+--------------------------------------------------
+Nom : Dr Céline Carassus
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3 Route de l'Hers
+31150 Lespinasse
+--------------------------------------------------
+Nom : Dr Claire Flacassier
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3a Place du Castelet
+31150 Bruguières
+--------------------------------------------------
+Nom : Dr JULIE PRUNELLA
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 37 Rue des Fleurs
+31150 Bruguières
+--------------------------------------------------
+Nom : Dr Doriane Mairal
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3a Place du Castelet
+31150 Bruguières
+--------------------------------------------------
+Nom : Marine MAUDUIT
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 37 Rue des Fleurs
+31150 Bruguières
+--------------------------------------------------
+Nom : Dr Chantal Amsellem
+Prochaine disponibilité : []
+Type de consultation : visio
+Secteur d'assurance : secteur 1
+Adresse complète : 4 Boulevard du Maréchal Juin
+31150 Fenouillet
+--------------------------------------------------
+Nom : Dr MARIE SIBEL
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 37 Rue des Fleurs
+31150 Bruguières
+--------------------------------------------------
+Nom : Dr Mamadou Lamine DIALLO
+Prochaine disponibilité : []
+Type de consultation : sur place
+Secteur d'assurance : secteur 1
+Adresse complète : 3 Rue du Chêne Vert
+31150 Gagnac-sur-Garonne
+--------------------------------------------------
+Nom : Dr Akram BEN SAID
+Prochaine disponibilité : []
+Type de consultation : visio
+Secteur d'assurance : secteur 1
+Adresse complète : 3 Route de l'Hers
+31150 Lespinasse
+--------------------------------------------------
